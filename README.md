@@ -59,4 +59,4 @@ Chegamos ao fim do jogo da velha, você foi capaz de utilizar e treinar os conte
  - Dom e seletores
  - Criar elementos de forma dinâmica 
  - Eventos
-
+!!!
